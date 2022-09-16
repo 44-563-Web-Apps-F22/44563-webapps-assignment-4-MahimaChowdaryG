@@ -43,6 +43,27 @@ font-family: Arial, Helvetica, sans-serif;
 .act{
    color:green;
 }
+#singers th{
+color:aliceblue;
+text-align: center;
+background-color:indigo;
+padding:10px;
+border: 1px solid black;
+}
+#singers td{
+padding: 10px;
+border: 1px solid black;
+}
+#singers tr:nth-child(even){
+background-color: #f2f2f2;
+}
+#singers{
+margin-left: 400px;
+margin-right: 400px;
+border: 1px solid black;
+border-collapse: collapse;
+}
+
 
 
 
