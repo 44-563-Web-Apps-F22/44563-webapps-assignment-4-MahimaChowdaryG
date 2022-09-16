@@ -1,5 +1,48 @@
-<style>
 
-   .speech{color:black;font:italic;size: 12;}
+.speech{
+color:black;
+font-family: "Times New Roman", Times, serif;
+font-size:20px;
+}
+.song{
+color:black;
+font-family: "Brush Script MT","Lucida Handwriting",cursive;
+font-size:20px;
+}
+.direction{
+color:black;
+font-family: "Lucida Console","Courier New",monospace;
+font-size:15px;
+background-color: aliceblue;
+}
+.direction:hover{
+color:red;
+background-color: aquamarine;
+}
+.name{
+color:black;
+font-family: Arial, Helvetica, sans-serif;
+font-size:20px;
+}
+.dame{
+color:brown;
+font-family: Arial, Helvetica, sans-serif;
+}
+.phoebe{
+color: blueviolet;
+font-family: Arial, Helvetica, sans-serif;
+}
+.meryll{
+color:blue;
+font-family: Arial, Helvetica, sans-serif;
+}
+.chorus{
+color:deeppink;
+font-family: Arial, Helvetica, sans-serif;
+}
+.act{
+   color:green;
+}
 
-</style>
+
+
