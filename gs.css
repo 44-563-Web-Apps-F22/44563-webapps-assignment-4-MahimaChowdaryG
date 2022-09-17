@@ -67,16 +67,17 @@ border-collapse: collapse;
 .name:hover{
 color: black;
 text-shadow:2px 2px 4px palevioletred;
-border-style:dotted;
+border: dotted;
 }
 ul.navbar-horizontal li{
 float:left;
 display:inline;
 }
 .navbar-horizontal{
-   padding-left:400px;
+   padding-left:500px;
    margin-left:40px;
 }
+
 
 
 
